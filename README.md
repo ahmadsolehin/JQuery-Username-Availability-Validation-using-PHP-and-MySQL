@@ -7,5 +7,3 @@ JQuery Username availability validation
 
 Your done.
 
-#follow us on Twitter - @itechempires 
-#like us on Facebook - https://www.facebook.com/itechempires
