@@ -10,3 +10,6 @@ Your done.
 
 
 ## Step 1: Database Setup
+
+<p>Create MySQL database table to store users details. (if you have already created that’s fine! just match your field name with the source code) and have few dummy records record entries to test. </p>
+
