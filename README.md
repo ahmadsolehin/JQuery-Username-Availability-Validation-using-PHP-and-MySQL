@@ -1,4 +1,4 @@
-#iTech Empires - JQuery Username availability validation - www.itechempires.com
+JQuery Username availability validation
 
 ## How to Run/Install ??
 
