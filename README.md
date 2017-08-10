@@ -17,3 +17,7 @@ Your done.
 
 
 ## Step 2: Start Programming
+
+<p> Create MySql Database Connection File: </p>
+
+<p>Create DB connection file db_connection.php and use following code and update the connection variable settings according to your system settings.</p>
