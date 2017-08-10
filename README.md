@@ -32,3 +32,8 @@ Your done.
 
 <img width="719" alt="screen shot 2017-08-11 at 1 32 54 am" src="https://user-images.githubusercontent.com/12325386/29183401-186c2726-7e35-11e7-83e4-f4344be7a587.png">
 
+<img width="712" alt="screen shot 2017-08-11 at 1 34 18 am" src="https://user-images.githubusercontent.com/12325386/29183427-38fc49d0-7e35-11e7-982a-1e5276f37b94.png">
+
+<img width="620" alt="screen shot 2017-08-11 at 1 34 45 am" src="https://user-images.githubusercontent.com/12325386/29183454-4fcd0122-7e35-11e7-8e70-cc48d66ce057.png">
+
+
