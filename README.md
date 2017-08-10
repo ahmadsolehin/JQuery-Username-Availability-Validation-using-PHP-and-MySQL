@@ -21,3 +21,6 @@ Your done.
 <p> Create MySql Database Connection File: </p>
 
 <p>Create DB connection file db_connection.php and use following code and update the connection variable settings according to your system settings.</p>
+
+
+<img width="718" alt="screen shot 2017-08-11 at 1 21 02 am" src="https://user-images.githubusercontent.com/12325386/29182933-638a7822-7e33-11e7-9bb9-e81b4e1ae906.png">
