@@ -7,3 +7,6 @@ JQuery Username availability validation
 
 Your done.
 
+
+
+## Step 1: Database Setup
