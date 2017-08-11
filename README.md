@@ -5,7 +5,6 @@ JQuery Username availability validation
 1. Create Database and users table.
 2. Change configurtion setting in db_connection.php file according to your host.
 
-Your done.
 
 
 
