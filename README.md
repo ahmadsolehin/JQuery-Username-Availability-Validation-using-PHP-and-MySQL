@@ -1,13 +1,5 @@
 JQuery Username availability validation
 
-## How to Run/Install ??
-
-1. Create Database and users table.
-2. Change configurtion setting in db_connection.php file according to your host.
-
-
-
-
 ## Step 1: Database Setup
 
 <p>Create MySQL database table to store users details. (if you have already created that’s fine! just match your field name with the source code) and have few dummy records record entries to test. </p>
@@ -35,4 +27,9 @@ JQuery Username availability validation
 
 <img width="620" alt="screen shot 2017-08-11 at 1 34 45 am" src="https://user-images.githubusercontent.com/12325386/29183454-4fcd0122-7e35-11e7-8e70-cc48d66ce057.png">
 
+
+## How to Run/Install ??
+
+1. Create Database and users table.
+2. Change configurtion setting in db_connection.php file according to your host.
 
